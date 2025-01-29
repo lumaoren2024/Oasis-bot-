@@ -1,5 +1,7 @@
 # Oasis-bot
 Oasis bot 脚本教程
+注册地址：https://r.distribute.ai/86816ae3b28fe200
+chrome插件地址：https://chromewebstore.google.com/detail/distributeai/knhbjeinoabfecakfppapfgdhcpnekmm
 
 config/proxy.txt说明
 ```bash
